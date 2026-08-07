@@ -1,21 +1,21 @@
 {
-  "version": "1.0.25",
-  "published_at": "2026-08-07T09:47:31Z",
+  "version": "1.0.26",
+  "published_at": "2026-08-07T10:08:09Z",
   "page_url": "https://github.com/Requiem4uk/reqvpn-releases/releases/tag/nightly",
   "assets": [
     {
-      "name": "ReqVPN-1.0.25-android-armeabi-v7a-release.apk",
-      "url": "https://github.com/Requiem4uk/reqvpn-releases/releases/download/nightly/ReqVPN-1.0.25-android-armeabi-v7a-release.apk",
-      "size": 20653496,
-      "sha256": "a45389deb1ae699c2aabc7a6918292a590fbb2fcf325e543b9ad73a16c3ce368",
-      "updated_at": "2026-08-07T09:47:31Z"
+      "name": "ReqVPN-1.0.26-android-armeabi-v7a-release.apk",
+      "url": "https://github.com/Requiem4uk/reqvpn-releases/releases/download/nightly/ReqVPN-1.0.26-android-armeabi-v7a-release.apk",
+      "size": 20655084,
+      "sha256": "29e55017c06af887b83db5a299b297c6a0d6a5b7e1e1b0029713625c65c3c341",
+      "updated_at": "2026-08-07T10:08:09Z"
     },
     {
-      "name": "ReqVPN-1.0.25-android-release.apk",
-      "url": "https://github.com/Requiem4uk/reqvpn-releases/releases/download/nightly/ReqVPN-1.0.25-android-release.apk",
-      "size": 45393484,
-      "sha256": "7981198ffd81cbe5c8f88a670ecabc0221b7922b30a388f55d460c5791118c7b",
-      "updated_at": "2026-08-07T09:47:31Z"
+      "name": "ReqVPN-1.0.26-android-release.apk",
+      "url": "https://github.com/Requiem4uk/reqvpn-releases/releases/download/nightly/ReqVPN-1.0.26-android-release.apk",
+      "size": 45396149,
+      "sha256": "25088061ebd6baaccd07c7583d12affe7ff88e36e0d9a03c06b91bc0242a40fd",
+      "updated_at": "2026-08-07T10:08:09Z"
     }
   ]
 }
