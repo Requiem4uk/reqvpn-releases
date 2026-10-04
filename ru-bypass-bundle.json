@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-03T10:42:20Z",
-  "published_at": "2026-10-03T10:42:20Z",
+  "version": "2026-10-04T11:23:09Z",
+  "published_at": "2026-10-04T11:23:09Z",
   "page_url": "https://raw.githubusercontent.com/Requiem4uk/reqvpn-releases/main",
   "source": "kirilllavrov/RU-domain-list-for-whitelist",
   "assets": [
@@ -9,21 +9,21 @@
       "url": "https://raw.githubusercontent.com/Requiem4uk/reqvpn-releases/main/ru_bypass_rules.txt",
       "size": 3429,
       "sha256": "256cee3e0ab2b786f4a53571f3667528fbe0be40bc057794739dad2a5daca6c4",
-      "updated_at": "2026-10-03T10:42:20Z"
+      "updated_at": "2026-10-04T11:23:09Z"
     },
     {
       "name": "ru_bypass_cidrs.txt",
       "url": "https://raw.githubusercontent.com/Requiem4uk/reqvpn-releases/main/ru_bypass_cidrs.txt",
       "size": 28048,
       "sha256": "68b7a85a0f31fa7c74b8efa637090963618c9d6dbb6913695113542ddf703ddb",
-      "updated_at": "2026-10-03T10:42:20Z"
+      "updated_at": "2026-10-04T11:23:09Z"
     },
     {
       "name": "ru_ads_block.txt",
       "url": "https://raw.githubusercontent.com/Requiem4uk/reqvpn-releases/main/ru_ads_block.txt",
       "size": 133555,
       "sha256": "601bb974cb1bf8960d5301d0ebc081c352a9e6abeea81b339244a6ed419e1bf2",
-      "updated_at": "2026-10-03T10:42:20Z"
+      "updated_at": "2026-10-04T11:23:09Z"
     }
   ]
 }
